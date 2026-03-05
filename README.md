@@ -65,6 +65,4 @@ vehicles = read_vehicles("cars.csv")
 - Console: iterations, cost/fitness, final package→vehicle assignment.
 - Matplotlib: route plot (depot at (0,0), packages as points, one color per vehicle).
 
-## License
 
-For academic/educational use.
